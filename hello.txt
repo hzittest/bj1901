@@ -1,2 +1,3 @@
 hello init
 hello bj1901
+hello git
